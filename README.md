@@ -12,6 +12,8 @@ https://github.com/user-attachments/assets/f7643624-28b4-4f76-bd8e-fdd918a8550e
 
 (demo recording, 1.2× speed).
 
+https://github.com/user-attachments/assets/86975e28-954b-4210-a49c-8fd620452f3f
+
 ## Intent
 
 The long-term goal is an AI that plays the game. That needs two layers: **vision** (what is on the screen), if the
