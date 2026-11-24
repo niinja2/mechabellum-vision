@@ -6,11 +6,11 @@
 > Everything was done on **one map**; nothing can be claimed for other maps until tested.
 > The research code is private; the demo is available on request.
 
-[glavni_demo.mp4](demo/glavni_demo.mp4) — C8 + K15 mask, then the spiders found and tracked — the Tarantula unit
+**Main demo** — C8 + K15 mask, then the spiders found and tracked — the Tarantula unit (demo recording, 1.2× speed):
 
 https://github.com/user-attachments/assets/f7643624-28b4-4f76-bd8e-fdd918a8550e
 
-(demo recording, 1.2× speed).
+**Final result** — every spider found and tracked through the demo recording (green box = spider, J# = unit number):
 
 https://github.com/user-attachments/assets/86975e28-954b-4210-a49c-8fd620452f3f
 
