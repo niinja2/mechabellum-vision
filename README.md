@@ -7,6 +7,9 @@
 > The research code is private; the demo is available on request.
 
 [glavni_demo.mp4](demo/glavni_demo.mp4) — C8 + K15 mask, then the spiders found and tracked — the Tarantula unit
+
+https://github.com/user-attachments/assets/f7643624-28b4-4f76-bd8e-fdd918a8550e
+
 (demo recording, 1.2× speed).
 
 ## Intent
