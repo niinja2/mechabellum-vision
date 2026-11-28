@@ -52,13 +52,20 @@ Before anything can be selected, a main filter is needed: what moves on the map,
 **Tried: 18 combinations of 14 basic operations** — colour mask + contours, colour mask + edges, blob size,
 brightness projection, colour quantisation, optical flow + edges (5 variants), battlefield only, saturation,
 difference heat map, background subtraction, per-team flow. Combinations with edges (Canny) were also in the running.
-All variants one by one: [inacice_587.mp4](demo/c8/inacice_587.mp4)
+
+All variants one by one: 
+https://github.com/user-attachments/assets/600c2e93-e3fc-4747-8a07-c71ed24e3f0c
+
 
 <details open>
 <summary>All variants on one frame of the first dataset</summary>
 
-![basic operations](demo/c8/inacice_osnovne_587.jpg)
-![combinations, C8 framed green](demo/c8/inacice_kombinacije_587.jpg)
+![basic operations]
+<img width="1704" height="1080" alt="inacice_osnovne_587" src="https://github.com/user-attachments/assets/7d8fbb88-3a9b-43d4-8e7c-c42828b5809d" />
+
+![combinations, C8 framed green]
+<img width="1704" height="1350" alt="inacice_kombinacije_587" src="https://github.com/user-attachments/assets/a44cf8ab-8916-4415-af44-d9b6367d3ff3" />
+
 
 </details>
 
